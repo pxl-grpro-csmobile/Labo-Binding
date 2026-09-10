@@ -1,8 +1,8 @@
 # Labo-Binding
-Deze repo biedt basiscode ter ondersteuning van de slides rond Binding. 
+In dit labo breidt je de bestaande voorbeelden van Binding uit en voeg je nieuwe functionaliteiten toe.
 
 ## Deel 1 
-Breid de oefening rond View-to-View Binding uit zodat je naast de rotatie van de Label ook de grootte (Scale) en kleur (TextColor) kan aanpassen. 
+Breid de ViewToViewBinding-page uit zodat je naast de rotatie van de Label ook de grootte (Scale) en kleur (TextColor) kan aanpassen. 
 
 Gebruik de kleuren uit een Picker-element ([documentatie](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/controls/picker?view=net-maui-8.0#respond-to-item-selection)).
 
